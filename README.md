@@ -13,4 +13,4 @@ groundbreaking results and demonstrations of the effective use of dedicated AI h
 
 - 😅 99% of my activity is committed to IBM's self-hosted GitHub Enterprise server which does not report activity to public GitHub.
 
-- ⚖️ The activity of this account represent the opinions and intentions of me personally and should not be attributed to those of my employer.
+- ⚖️ The activity of this account represents the opinions and intentions of me personally and should not be attributed to those of my employer.
